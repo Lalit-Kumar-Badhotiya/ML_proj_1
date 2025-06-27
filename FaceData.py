@@ -8,6 +8,7 @@
 # 4. Repeat the above for multiple people to generate training data
 
 
+
 import cv2
 import numpy as np
 
