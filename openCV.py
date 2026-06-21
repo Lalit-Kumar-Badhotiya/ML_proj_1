@@ -1,5 +1,5 @@
 import cv2
-#import time
+import time
 
 #img = cv2.imread("dog.png")
 #new_img = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
